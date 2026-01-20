@@ -1,0 +1,5 @@
+1. Celsius to Fahrenheit
+2. Fahrenheit to Celsius
+Enter your choice: 1
+Enter Celsius: 36
+Fahrenheit = 96.80

@@ -1,0 +1,12 @@
+Simple Temperature Converter
+
+*Temperature Converter in C
+
+A simple C program to convert temperature between Celsius and Fahrenheit.
+
+## Features
+- Convert Celsius → Fahrenheit and Fahrenheit → Celsius
+- User selects conversion type
+- Displays the converted temperature
+
+
